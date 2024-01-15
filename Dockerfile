@@ -1,4 +1,4 @@
-# Use the base image from devopsedu
+[200~# Use the base image from devopsedu
 FROM devopsedu/webapp
 
 # Copy PHP application files to the web server directory
